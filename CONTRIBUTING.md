@@ -1,3 +1,7 @@
+# changes 11:24
+# Again more changes made
+# more changes made
+# made a change by Simo 020715 11:04
 # Welcome to libgit2!
 
 We're making it easy to do interesting things with git, and we'd love to have
